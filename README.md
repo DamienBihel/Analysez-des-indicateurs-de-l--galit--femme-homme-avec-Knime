@@ -1,5 +1,5 @@
 # Analysez des indicateurs de l'égalité femme-homme avec Knime
- Projet N°7 de la formation de Data Analyst OpenClassrooms. Il vise à démontrer les compétences en matière de : 
+Démontrer les compétences en matière de : 
 
 - collecte les données des collaborateurs de votre entreprise en respectant le RGPD.
 - de création les indicateurs de l'égalité homme-femme avec l'outil d'ETL Knime.
